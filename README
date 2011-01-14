@@ -1,0 +1,5 @@
+Webapp to select random lunch places from a list created by the user.
+
+Schema is found in app/config/schema/schema.php 
+OR
+run 'cake migration all' to automatically create database table.
