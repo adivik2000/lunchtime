@@ -1,4 +1,4 @@
-Webapp to select random lunch places from a list created by the user.
+Cakephp Webapp to select random lunch places from a list created by the user.
 
 Schema is found in app/config/schema/schema.php 
 OR
